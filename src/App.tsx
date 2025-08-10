@@ -1,6 +1,6 @@
-import Sidebar from './containers/sidebar'
+import Sidebar from './containers/Sidebar'
 import Sobre from './containers/sobre'
-import Projetos from './containers/projetos'
+import Projetos from './containers/Projetos'
 import EestiloGlobal, { Container } from './styles'
 
 function App() {
